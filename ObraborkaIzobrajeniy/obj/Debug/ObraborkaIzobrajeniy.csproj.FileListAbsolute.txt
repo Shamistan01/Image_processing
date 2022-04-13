@@ -1,0 +1,20 @@
+C:\Users\shami\source\repos\ObraborkaIzobrajeniy\bin\Debug\ObraborkaIzobrajeniy.exe.config
+C:\Users\shami\source\repos\ObraborkaIzobrajeniy\bin\Debug\ObraborkaIzobrajeniy.exe
+C:\Users\shami\source\repos\ObraborkaIzobrajeniy\bin\Debug\ObraborkaIzobrajeniy.pdb
+C:\Users\shami\source\repos\ObraborkaIzobrajeniy\obj\Debug\ObraborkaIzobrajeniy.csprojAssemblyReference.cache
+C:\Users\shami\source\repos\ObraborkaIzobrajeniy\obj\Debug\ObraborkaIzobrajeniy.Form1.resources
+C:\Users\shami\source\repos\ObraborkaIzobrajeniy\obj\Debug\ObraborkaIzobrajeniy.Properties.Resources.resources
+C:\Users\shami\source\repos\ObraborkaIzobrajeniy\obj\Debug\ObraborkaIzobrajeniy.csproj.GenerateResource.cache
+C:\Users\shami\source\repos\ObraborkaIzobrajeniy\obj\Debug\ObraborkaIzobrajeniy.csproj.CoreCompileInputs.cache
+C:\Users\shami\source\repos\ObraborkaIzobrajeniy\obj\Debug\ObraborkaIzobrajeniy.exe
+C:\Users\shami\source\repos\ObraborkaIzobrajeniy\obj\Debug\ObraborkaIzobrajeniy.pdb
+C:\Users\shami\OneDrive\Рабочий стол\ObraborkaIzobrajeniy\bin\Debug\ObraborkaIzobrajeniy.exe.config
+C:\Users\shami\OneDrive\Рабочий стол\ObraborkaIzobrajeniy\bin\Debug\ObraborkaIzobrajeniy.exe
+C:\Users\shami\OneDrive\Рабочий стол\ObraborkaIzobrajeniy\bin\Debug\ObraborkaIzobrajeniy.pdb
+C:\Users\shami\OneDrive\Рабочий стол\ObraborkaIzobrajeniy\obj\Debug\ObraborkaIzobrajeniy.csproj.AssemblyReference.cache
+C:\Users\shami\OneDrive\Рабочий стол\ObraborkaIzobrajeniy\obj\Debug\ObraborkaIzobrajeniy.Form1.resources
+C:\Users\shami\OneDrive\Рабочий стол\ObraborkaIzobrajeniy\obj\Debug\ObraborkaIzobrajeniy.Properties.Resources.resources
+C:\Users\shami\OneDrive\Рабочий стол\ObraborkaIzobrajeniy\obj\Debug\ObraborkaIzobrajeniy.csproj.GenerateResource.cache
+C:\Users\shami\OneDrive\Рабочий стол\ObraborkaIzobrajeniy\obj\Debug\ObraborkaIzobrajeniy.csproj.CoreCompileInputs.cache
+C:\Users\shami\OneDrive\Рабочий стол\ObraborkaIzobrajeniy\obj\Debug\ObraborkaIzobrajeniy.exe
+C:\Users\shami\OneDrive\Рабочий стол\ObraborkaIzobrajeniy\obj\Debug\ObraborkaIzobrajeniy.pdb
